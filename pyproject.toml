@@ -14,5 +14,6 @@ dependencies = [
     "langchain-tavily>=0.2.18",
     "langgraph>=1.2.4",
     "langgraph-prebuilt>=1.1.0",
+    "rich>=15.0.0",
     "wikipedia>=1.4.0",
 ]

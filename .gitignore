@@ -12,3 +12,6 @@ wheels/
 
 /image/*
 !/image/.keep
+
+/logs/*
+!/logs/.keep
